@@ -1,4 +1,4 @@
-# React + Vite + SWC Template
+# ReactVite SWC  Template
 
 Starter template for building modern **React** apps with **Vite** and **SWC (JavaScript)**.  
 Includes Prettier + ESLint + EditorConfig preconfigured for a clean dev workflow.
@@ -17,7 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 - ⚡ Fast bundling with [Vite](https://vitejs.dev/)
 -  Super-fast builds via [SWC](https://swc.rs/)
 - 粒 Preconfigured ESLint + Prettier + EditorConfig
--  Ready for Husky + lint-staged (optional)
 -  VSCode integration with recommended settings
 
 ##  Quick Start
@@ -27,7 +26,7 @@ If you are developing a production application, we recommend using TypeScript wi
    or via CLI:
 
    ```bash
-   gh repo create my-new-app --template Alexcadxx/react-vite-swc-template --public
+ gh repo create my-new-app --template Alexcadxx/react-vite-swc-template --public
 
    ```
 
